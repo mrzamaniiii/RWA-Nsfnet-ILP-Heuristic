@@ -24,11 +24,3 @@ Developed as part of **Communication Network Design Lab**, the model uses **NSFN
 | `Task3_CND.ipynb`       | Jupyter notebook with full implementation and visualization |
 | `10869960_11041528_CND_TASK_3.pdf` | Official report with input descriptions and analysis            |
 | `nsfnet_topology.json`  | (Assumed) input file with node/edge structure of NSFNET     |
-
----
-
-## 🚀 How to Run
-
-1. Install dependencies:
-```bash
-pip install networkx matplotlib numpy ortools
