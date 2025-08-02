@@ -13,8 +13,6 @@ Developed as part of Communication Network Design Lab, the model uses NSFNET top
   - Run both ILP and Heuristic RWA algorithms
   - Compare results per matrix
 
----
-
 ## 📂 Files
 
 | File                    | Description                                                 |
