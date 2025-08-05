@@ -1,9 +1,9 @@
-# 🔁 Routing and Wavelength Assignment – NSFNET
+# Routing and Wavelength Assignment – NSFNET
 
 This repository contains a simulation-based comparison between ILP and Heuristic solutions for the Routing and Wavelength Assignment (RWA) problem in optical networks.  
 Developed as part of Communication Network Design Lab, the model uses NSFNET topology and five randomly generated traffic matrices.
 
-## 📘 Overview
+## Overview
 
 - **Topology**: NSFNET backbone (14 nodes, realistic U.S. network)
 - **Goal**: Compare the success rate of ILP vs Heuristic for routing demands while minimizing wavelength usage
@@ -13,7 +13,7 @@ Developed as part of Communication Network Design Lab, the model uses NSFNET top
   - Run both ILP and Heuristic RWA algorithms
   - Compare results per matrix
 
-## 📂 Files
+## Files
 
 | File                    | Description                                                 |
 |-------------------------|-------------------------------------------------------------|
